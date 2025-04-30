@@ -1,3 +1,6 @@
+body{
+    background-color: green;
+}
 @font-face {
     font-family: 'brasil';
     src: url(Gumball.ttf);
@@ -11,7 +14,7 @@
     justify-content: center;
     align-items: center; 
     gap: 20px;
-    background-color: lightblue;
+    background-color: blue;
 }
 .brasilimg{
     height: 40vh;
