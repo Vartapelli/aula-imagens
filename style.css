@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'brasil';
+    src: url(Gumball.ttf);
+}
 #brasil{
     border: solid 3px green ;
     height: 60vh;
@@ -12,4 +16,10 @@
 .brasilimg{
     height: 40vh;
     width: 20vw;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'brasil';
+    
 }
