@@ -1,12 +1,12 @@
 body{
-    background-color: green;
+    background-color:  green;
 }
 @font-face {
     font-family: 'brasil';
     src: url(Gumball.ttf);
 }
 #brasil{
-    border: solid 3px green ;
+    border: solid 40px yellow ;
     height: 60vh;
     width: 80vw;
     margin: auto; 
